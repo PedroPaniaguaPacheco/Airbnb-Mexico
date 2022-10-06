@@ -1,0 +1,50 @@
+//Siempre matener esta estructura
+let
+Reemplazar_Valor = 
+
+(Col_1)  =>
+    let
+
+    Origen = Col_1,
+    Paso_1 = Replacer.ReplaceText(Col_1,".",""),
+    Paso_2 = Replacer.ReplaceText(Paso_1,"!",""),
+    Paso_3 = Replacer.ReplaceText(Paso_2,",",""),
+    Paso_4 = Replacer.ReplaceText(Paso_3,"-",""),
+    Paso_5 = Replacer.ReplaceText(Paso_4,";",""),
+    Paso_6 = Replacer.ReplaceText(Paso_5,"?",""),
+    Paso_7 = Replacer.ReplaceText(Paso_6,"¿",""),
+    Paso_8 = Replacer.ReplaceText(Paso_7,"¡",""),
+    Paso_9 = Replacer.ReplaceText(Paso_8,"""",""),
+    Paso_10 = Replacer.ReplaceText(Paso_9,"'",""),
+    Paso_11 = Replacer.ReplaceText(Paso_10,"#",""),
+    Paso_12 = Replacer.ReplaceText(Paso_11,"/",""),
+    Paso_13 = Replacer.ReplaceText(Paso_12,"(",""),
+    Paso_14 = Replacer.ReplaceText(Paso_13,")",""),
+    Paso_15 = Replacer.ReplaceText(Paso_14,"&",""),
+    Paso_16 = Replacer.ReplaceText(Paso_15,"$",""),
+    Paso_17 = Replacer.ReplaceText(Paso_16,"+",""),
+    Paso_18 = Replacer.ReplaceText(Paso_17,"_",""),
+    Paso_19 = Replacer.ReplaceText(Paso_18,"1",""),
+    Paso_20 = Replacer.ReplaceText(Paso_19,"2",""),
+    Paso_21 = Replacer.ReplaceText(Paso_20,"3",""),
+    Paso_22 = Replacer.ReplaceText(Paso_21,"4",""),
+    Paso_23 = Replacer.ReplaceText(Paso_22,"5",""),
+    Paso_24 = Replacer.ReplaceText(Paso_23,"6",""),
+    Paso_25 = Replacer.ReplaceText(Paso_24,"7",""),
+    Paso_26 = Replacer.ReplaceText(Paso_25,"8",""),
+    Paso_27 = Replacer.ReplaceText(Paso_26,"9",""),
+    Paso_28 = Replacer.ReplaceText(Paso_27,"0",""),
+    Paso_29 = Replacer.ReplaceText(Paso_28,":",""),
+    Paso_30 = Replacer.ReplaceText(Paso_29,"  ",""),
+    Paso_31 = Replacer.ReplaceText(Paso_30,"%",""),
+    Paso_32 = Replacer.ReplaceText(Paso_31,"=",""),
+    Paso_33 = Replacer.ReplaceText(Paso_32,"<br>",""),
+    Paso_34 = Replacer.ReplaceText(Paso_33,"</br>","")
+
+
+
+    in
+   Paso_34
+
+in 
+Reemplazar_Valor
